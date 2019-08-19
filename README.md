@@ -20,5 +20,9 @@ I was asked to build a new application from scratch in order to correct all the 
 - No <b>SQL support</b> as I could have used <b>SQLite</b> for the whole project but I have implemented a primitive <b>indexing</b> & <b>caching</b> mechanisms, an implementation which allowed me to add records searching, filtering & complex statistiques functionalities with a fast lightning speed performance.
 - <b>Facial recognition</b> support using <b>Luxand's FaceSDK</b> ( Source code not included in this repository as the <b>sdk</b> is a proprietary commercial product)
 
+## Screenshots :
+
+![](images/main.png)
+
 
 
