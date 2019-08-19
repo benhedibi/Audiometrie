@@ -23,6 +23,14 @@ I was asked to build a new application from scratch in order to correct all the 
 ## Screenshots :
 
 ![](images/main.png)
-
+![](images/consultations.png)
+![](images/user_infos.png)
+![](images/audiov.png)
+![](images/tympano.png)
+![](images/audiogram.png)
+![](images/gainp.png)
+![](images/pat_list.png)
+![](images/pyramid.png)
+![](images/stat_tunis.png)
 
 
