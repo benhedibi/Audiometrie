@@ -9,6 +9,12 @@ Is a database application that I have developped for a Hearing Loss Measurement 
 - Sometimes whenever they add a new record : instead of getting appended, it just overwrites a random record in the database.
 - Plus a lot of other weired bugs.
 
-I was asked to build a new application from scratch in order to correct all the mentionned bugs as well as adding some useful functionalities. I was having a very tight schedule as I was immigrating to Canada with only 2 months in hands. 
+I was asked to build a new application from scratch in order to correct all the mentionned bugs as well as adding some brand new useful functionalities. I was having a very tight schedule as I was immigrating to Canada with only 2 months in hands but despite the time constraint, I was able to deliver and deploy the new software spot on schedule.
+
+## What I did :
+
+- Created and successfully implemented an SQL-LESS but a RELATIONAL database engine from scratch. Database engine and data storage format which are tailored for the exclusive needs of the software.
+-
+
 
 
